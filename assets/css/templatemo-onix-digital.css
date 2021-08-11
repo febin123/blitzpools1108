@@ -687,7 +687,7 @@ nav .openMenu {
   cursor: pointer;
 }
 nav .mainMenu .closeMenu , .icons i {
-  font-size: 2rem;
+  font-size: 5rem;
   display: none;
   cursor: pointer;
 }
